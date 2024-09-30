@@ -1,6 +1,6 @@
 console.log("Welcome to 1.0.0 version!")
 
-/function countOPN(expression) {
+function countOPN(expression) {
     const numbers = [];
     const elements = expression.split(' ');
     elements.forEach(element => {
