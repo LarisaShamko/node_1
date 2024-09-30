@@ -1,4 +1,4 @@
-console.log("Welcome to 1.1.0 version!")
+console.log("Welcome to 2.0.0 version!")
 
 function countOPN(expression) {
     const numbers = [];
